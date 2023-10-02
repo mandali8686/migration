@@ -1,0 +1,662 @@
+[
+    {
+        "identifier": "11",
+        "description": "Generalize the problem 'Two Sum' to work with various conditions.",
+        "function_prototype": {
+            "function_name": "func_1",
+            "parameters": [],
+            "return_type": "Any",
+            "return_values": [
+                {
+                    "name": "result",
+                    "type": "List[int]",
+                    "description": "A list of integers representing the result."
+                }
+            ]
+        },
+        "correctness_test_suite": [
+            {
+                "input": {
+                    "sample_input": "placeholder"
+                },
+                "expected_output": [
+                    "sample_output"
+                ]
+            }
+        ],
+        "tags": [
+            "Generalization",
+            "Automated Assessment"
+        ],
+        "prompts": [
+            {
+                "prompt_id": "brief_prompt",
+                "prompt": "Implement the function as described.",
+                "genericize": false,
+                "sample_inputs_outputs": []
+            },
+            {
+                "prompt_id": "detailed_prompt",
+                "prompt": "Implement the function as described in detail.",
+                "genericize": true,
+                "sample_inputs_outputs": []
+            }
+        ]
+    },
+    {
+        "identifier": "12",
+        "description": "Generalize the problem 'Add Two Numbers' to work with various conditions.",
+        "function_prototype": {
+            "function_name": "func_2",
+            "parameters": [],
+            "return_type": "Any",
+            "return_values": [
+                {
+                    "name": "result",
+                    "type": "List[int]",
+                    "description": "A list of integers representing the result."
+                }
+            ]
+        },
+        "correctness_test_suite": [
+            {
+                "input": {
+                    "sample_input": "placeholder"
+                },
+                "expected_output": [
+                    "sample_output"
+                ]
+            }
+        ],
+        "tags": [
+            "Generalization",
+            "Automated Assessment"
+        ],
+        "prompts": [
+            {
+                "prompt_id": "brief_prompt",
+                "prompt": "Implement the function as described.",
+                "genericize": false,
+                "sample_inputs_outputs": []
+            },
+            {
+                "prompt_id": "detailed_prompt",
+                "prompt": "Implement the function as described in detail.",
+                "genericize": true,
+                "sample_inputs_outputs": []
+            }
+        ]
+    },
+    {
+        "identifier": "13",
+        "description": "Generalize the problem 'Longest Substring Without Repeating Characters' to work with various conditions.",
+        "function_prototype": {
+            "function_name": "func_3",
+            "parameters": [],
+            "return_type": "Any",
+            "return_values": [
+                {
+                    "name": "result",
+                    "type": "List[int]",
+                    "description": "A list of integers representing the result."
+                }
+            ]
+        },
+        "correctness_test_suite": [
+            {
+                "input": {
+                    "sample_input": "placeholder"
+                },
+                "expected_output": [
+                    "sample_output"
+                ]
+            }
+        ],
+        "tags": [
+            "Generalization",
+            "Automated Assessment"
+        ],
+        "prompts": [
+            {
+                "prompt_id": "brief_prompt",
+                "prompt": "Implement the function as described.",
+                "genericize": false,
+                "sample_inputs_outputs": []
+            },
+            {
+                "prompt_id": "detailed_prompt",
+                "prompt": "Implement the function as described in detail.",
+                "genericize": true,
+                "sample_inputs_outputs": []
+            }
+        ]
+    },
+    {
+        "identifier": "14",
+        "description": "Generalize the problem 'Median of Two Sorted Arrays' to work with various conditions.",
+        "function_prototype": {
+            "function_name": "func_4",
+            "parameters": [],
+            "return_type": "Any",
+            "return_values": [
+                {
+                    "name": "result",
+                    "type": "List[int]",
+                    "description": "A list of integers representing the result."
+                }
+            ]
+        },
+        "correctness_test_suite": [
+            {
+                "input": {
+                    "sample_input": "placeholder"
+                },
+                "expected_output": [
+                    "sample_output"
+                ]
+            }
+        ],
+        "tags": [
+            "Generalization",
+            "Automated Assessment"
+        ],
+        "prompts": [
+            {
+                "prompt_id": "brief_prompt",
+                "prompt": "Implement the function as described.",
+                "genericize": false,
+                "sample_inputs_outputs": []
+            },
+            {
+                "prompt_id": "detailed_prompt",
+                "prompt": "Implement the function as described in detail.",
+                "genericize": true,
+                "sample_inputs_outputs": []
+            }
+        ]
+    },
+    {
+        "identifier": "15",
+        "description": "Generalize the problem 'Longest Palindromic Substring' to work with various conditions.",
+        "function_prototype": {
+            "function_name": "func_5",
+            "parameters": [],
+            "return_type": "Any",
+            "return_values": [
+                {
+                    "name": "result",
+                    "type": "List[int]",
+                    "description": "A list of integers representing the result."
+                }
+            ]
+        },
+        "correctness_test_suite": [
+            {
+                "input": {
+                    "sample_input": "placeholder"
+                },
+                "expected_output": [
+                    "sample_output"
+                ]
+            }
+        ],
+        "tags": [
+            "Generalization",
+            "Automated Assessment"
+        ],
+        "prompts": [
+            {
+                "prompt_id": "brief_prompt",
+                "prompt": "Implement the function as described.",
+                "genericize": false,
+                "sample_inputs_outputs": []
+            },
+            {
+                "prompt_id": "detailed_prompt",
+                "prompt": "Implement the function as described in detail.",
+                "genericize": true,
+                "sample_inputs_outputs": []
+            }
+        ]
+    },
+    {
+        "identifier": "41",
+        "description": "Ensure fairness in the problem 'Next Permutation' by handling all edge cases.",
+        "function_prototype": {
+            "function_name": "func_31",
+            "parameters": [],
+            "return_type": "Any",
+            "return_values": [
+                {
+                    "name": "result",
+                    "type": "List[int]",
+                    "description": "A list of integers representing the result."
+                }
+            ]
+        },
+        "correctness_test_suite": [
+            {
+                "input": {
+                    "sample_input": "placeholder"
+                },
+                "expected_output": [
+                    "sample_output"
+                ]
+            }
+        ],
+        "tags": [
+            "Fairness",
+            "Automated Assessment"
+        ],
+        "prompts": [
+            {
+                "prompt_id": "brief_prompt",
+                "prompt": "Implement the function as described.",
+                "genericize": false,
+                "sample_inputs_outputs": []
+            },
+            {
+                "prompt_id": "detailed_prompt",
+                "prompt": "Implement the function as described in detail.",
+                "genericize": true,
+                "sample_inputs_outputs": []
+            }
+        ]
+    },
+    {
+        "identifier": "42",
+        "description": "Ensure fairness in the problem 'Longest Valid Parentheses' by handling all edge cases.",
+        "function_prototype": {
+            "function_name": "func_32",
+            "parameters": [],
+            "return_type": "Any",
+            "return_values": [
+                {
+                    "name": "result",
+                    "type": "List[int]",
+                    "description": "A list of integers representing the result."
+                }
+            ]
+        },
+        "correctness_test_suite": [
+            {
+                "input": {
+                    "sample_input": "placeholder"
+                },
+                "expected_output": [
+                    "sample_output"
+                ]
+            }
+        ],
+        "tags": [
+            "Fairness",
+            "Automated Assessment"
+        ],
+        "prompts": [
+            {
+                "prompt_id": "brief_prompt",
+                "prompt": "Implement the function as described.",
+                "genericize": false,
+                "sample_inputs_outputs": []
+            },
+            {
+                "prompt_id": "detailed_prompt",
+                "prompt": "Implement the function as described in detail.",
+                "genericize": true,
+                "sample_inputs_outputs": []
+            }
+        ]
+    },
+    {
+        "identifier": "43",
+        "description": "Ensure fairness in the problem 'Search in Rotated Sorted Array' by handling all edge cases.",
+        "function_prototype": {
+            "function_name": "func_33",
+            "parameters": [],
+            "return_type": "Any",
+            "return_values": [
+                {
+                    "name": "result",
+                    "type": "List[int]",
+                    "description": "A list of integers representing the result."
+                }
+            ]
+        },
+        "correctness_test_suite": [
+            {
+                "input": {
+                    "sample_input": "placeholder"
+                },
+                "expected_output": [
+                    "sample_output"
+                ]
+            }
+        ],
+        "tags": [
+            "Fairness",
+            "Automated Assessment"
+        ],
+        "prompts": [
+            {
+                "prompt_id": "brief_prompt",
+                "prompt": "Implement the function as described.",
+                "genericize": false,
+                "sample_inputs_outputs": []
+            },
+            {
+                "prompt_id": "detailed_prompt",
+                "prompt": "Implement the function as described in detail.",
+                "genericize": true,
+                "sample_inputs_outputs": []
+            }
+        ]
+    },
+    {
+        "identifier": "44",
+        "description": "Ensure fairness in the problem 'Find First and Last Position of Element in Sorted Array' by handling all edge cases.",
+        "function_prototype": {
+            "function_name": "func_34",
+            "parameters": [],
+            "return_type": "Any",
+            "return_values": [
+                {
+                    "name": "result",
+                    "type": "List[int]",
+                    "description": "A list of integers representing the result."
+                }
+            ]
+        },
+        "correctness_test_suite": [
+            {
+                "input": {
+                    "sample_input": "placeholder"
+                },
+                "expected_output": [
+                    "sample_output"
+                ]
+            }
+        ],
+        "tags": [
+            "Fairness",
+            "Automated Assessment"
+        ],
+        "prompts": [
+            {
+                "prompt_id": "brief_prompt",
+                "prompt": "Implement the function as described.",
+                "genericize": false,
+                "sample_inputs_outputs": []
+            },
+            {
+                "prompt_id": "detailed_prompt",
+                "prompt": "Implement the function as described in detail.",
+                "genericize": true,
+                "sample_inputs_outputs": []
+            }
+        ]
+    },
+    {
+        "identifier": "45",
+        "description": "Ensure fairness in the problem 'Search Insert Position' by handling all edge cases.",
+        "function_prototype": {
+            "function_name": "func_35",
+            "parameters": [],
+            "return_type": "Any",
+            "return_values": [
+                {
+                    "name": "result",
+                    "type": "List[int]",
+                    "description": "A list of integers representing the result."
+                }
+            ]
+        },
+        "correctness_test_suite": [
+            {
+                "input": {
+                    "sample_input": "placeholder"
+                },
+                "expected_output": [
+                    "sample_output"
+                ]
+            }
+        ],
+        "tags": [
+            "Fairness",
+            "Automated Assessment"
+        ],
+        "prompts": [
+            {
+                "prompt_id": "brief_prompt",
+                "prompt": "Implement the function as described.",
+                "genericize": false,
+                "sample_inputs_outputs": []
+            },
+            {
+                "prompt_id": "detailed_prompt",
+                "prompt": "Implement the function as described in detail.",
+                "genericize": true,
+                "sample_inputs_outputs": []
+            }
+        ]
+    },
+    {
+        "identifier": "71",
+        "description": "Optimize the problem 'Rotate List' for better performance.",
+        "function_prototype": {
+            "function_name": "func_61",
+            "parameters": [],
+            "return_type": "Any",
+            "return_values": [
+                {
+                    "name": "result",
+                    "type": "List[int]",
+                    "description": "A list of integers representing the result."
+                }
+            ]
+        },
+        "correctness_test_suite": [
+            {
+                "input": {
+                    "sample_input": "placeholder"
+                },
+                "expected_output": [
+                    "sample_output"
+                ]
+            }
+        ],
+        "tags": [
+            "Optimization",
+            "Automated Assessment"
+        ],
+        "prompts": [
+            {
+                "prompt_id": "brief_prompt",
+                "prompt": "Implement the function as described.",
+                "genericize": false,
+                "sample_inputs_outputs": []
+            },
+            {
+                "prompt_id": "detailed_prompt",
+                "prompt": "Implement the function as described in detail.",
+                "genericize": true,
+                "sample_inputs_outputs": []
+            }
+        ]
+    },
+    {
+        "identifier": "72",
+        "description": "Optimize the problem 'Unique Paths' for better performance.",
+        "function_prototype": {
+            "function_name": "func_62",
+            "parameters": [],
+            "return_type": "Any",
+            "return_values": [
+                {
+                    "name": "result",
+                    "type": "List[int]",
+                    "description": "A list of integers representing the result."
+                }
+            ]
+        },
+        "correctness_test_suite": [
+            {
+                "input": {
+                    "sample_input": "placeholder"
+                },
+                "expected_output": [
+                    "sample_output"
+                ]
+            }
+        ],
+        "tags": [
+            "Optimization",
+            "Automated Assessment"
+        ],
+        "prompts": [
+            {
+                "prompt_id": "brief_prompt",
+                "prompt": "Implement the function as described.",
+                "genericize": false,
+                "sample_inputs_outputs": []
+            },
+            {
+                "prompt_id": "detailed_prompt",
+                "prompt": "Implement the function as described in detail.",
+                "genericize": true,
+                "sample_inputs_outputs": []
+            }
+        ]
+    },
+    {
+        "identifier": "73",
+        "description": "Optimize the problem 'Unique Paths II' for better performance.",
+        "function_prototype": {
+            "function_name": "func_63",
+            "parameters": [],
+            "return_type": "Any",
+            "return_values": [
+                {
+                    "name": "result",
+                    "type": "List[int]",
+                    "description": "A list of integers representing the result."
+                }
+            ]
+        },
+        "correctness_test_suite": [
+            {
+                "input": {
+                    "sample_input": "placeholder"
+                },
+                "expected_output": [
+                    "sample_output"
+                ]
+            }
+        ],
+        "tags": [
+            "Optimization",
+            "Automated Assessment"
+        ],
+        "prompts": [
+            {
+                "prompt_id": "brief_prompt",
+                "prompt": "Implement the function as described.",
+                "genericize": false,
+                "sample_inputs_outputs": []
+            },
+            {
+                "prompt_id": "detailed_prompt",
+                "prompt": "Implement the function as described in detail.",
+                "genericize": true,
+                "sample_inputs_outputs": []
+            }
+        ]
+    },
+    {
+        "identifier": "74",
+        "description": "Optimize the problem 'Minimum Path Sum' for better performance.",
+        "function_prototype": {
+            "function_name": "func_64",
+            "parameters": [],
+            "return_type": "Any",
+            "return_values": [
+                {
+                    "name": "result",
+                    "type": "List[int]",
+                    "description": "A list of integers representing the result."
+                }
+            ]
+        },
+        "correctness_test_suite": [
+            {
+                "input": {
+                    "sample_input": "placeholder"
+                },
+                "expected_output": [
+                    "sample_output"
+                ]
+            }
+        ],
+        "tags": [
+            "Optimization",
+            "Automated Assessment"
+        ],
+        "prompts": [
+            {
+                "prompt_id": "brief_prompt",
+                "prompt": "Implement the function as described.",
+                "genericize": false,
+                "sample_inputs_outputs": []
+            },
+            {
+                "prompt_id": "detailed_prompt",
+                "prompt": "Implement the function as described in detail.",
+                "genericize": true,
+                "sample_inputs_outputs": []
+            }
+        ]
+    },
+    {
+        "identifier": "75",
+        "description": "Optimize the problem 'Valid Number' for better performance.",
+        "function_prototype": {
+            "function_name": "func_65",
+            "parameters": [],
+            "return_type": "Any",
+            "return_values": [
+                {
+                    "name": "result",
+                    "type": "List[int]",
+                    "description": "A list of integers representing the result."
+                }
+            ]
+        },
+        "correctness_test_suite": [
+            {
+                "input": {
+                    "sample_input": "placeholder"
+                },
+                "expected_output": [
+                    "sample_output"
+                ]
+            }
+        ],
+        "tags": [
+            "Optimization",
+            "Automated Assessment"
+        ],
+        "prompts": [
+            {
+                "prompt_id": "brief_prompt",
+                "prompt": "Implement the function as described.",
+                "genericize": false,
+                "sample_inputs_outputs": []
+            },
+            {
+                "prompt_id": "detailed_prompt",
+                "prompt": "Implement the function as described in detail.",
+                "genericize": true,
+                "sample_inputs_outputs": []
+            }
+        ]
+    }
+]

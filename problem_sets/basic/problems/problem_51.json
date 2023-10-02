@@ -1,0 +1,44 @@
+{
+    "identifier": "51",
+    "description": "Placeholder description",
+    "function_prototype": {
+        "function_name": "func_31",
+        "parameters": [],
+        "return_type": "Any",
+        "return_values": [
+            {
+                "name": "result",
+                "type": "List[int]",
+                "description": "A list of integers representing the result."
+            }
+        ]
+    },
+    "correctness_test_suite": [
+        {
+            "input": {
+                "sample_input": "placeholder"
+            },
+            "expected_output": [
+                "sample_output"
+            ]
+        }
+    ],
+    "tags": [
+        "Fairness",
+        "Automated Assessment"
+    ],
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Implement the function as described.",
+            "genericize": false,
+            "sample_inputs_outputs": []
+        },
+        {
+            "prompt_id": "detailed_prompt",
+            "prompt": "Implement the function as described in detail.",
+            "genericize": true,
+            "sample_inputs_outputs": []
+        }
+    ]
+}

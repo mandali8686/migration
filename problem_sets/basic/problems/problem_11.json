@@ -1,0 +1,65 @@
+{
+    "identifier": "11",
+    "description": "Generalize the problem 'Two Sum' to work with various conditions.",
+    "function_prototype": {
+        "function_name": "func_1",
+        "parameters": [],
+        "return_type": "Any",
+        "return_values": [
+            {
+                "name": "result",
+                "type": "List[int]",
+                "description": "A list of integers representing the result."
+            }
+        ]
+    },
+    "correctness_test_suite": [
+        {
+            "input": {
+                "numbers": [
+                    2,
+                    7,
+                    11,
+                    15
+                ],
+                "target": 9
+            },
+            "expected_output": [
+                0,
+                1
+            ]
+        },
+        {
+            "input": {
+                "numbers": [
+                    3,
+                    2,
+                    4
+                ],
+                "target": 6
+            },
+            "expected_output": [
+                1,
+                2
+            ]
+        }
+    ],
+    "tags": [
+        "Generalization",
+        "Automated Assessment"
+    ],
+    "prompts": [
+        {
+            "prompt_id": "brief_prompt",
+            "prompt": "Implement the function as described.",
+            "genericize": false,
+            "sample_inputs_outputs": []
+        },
+        {
+            "prompt_id": "detailed_prompt",
+            "prompt": "Implement the function as described in detail.",
+            "genericize": true,
+            "sample_inputs_outputs": []
+        }
+    ]
+}
